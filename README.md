@@ -19,3 +19,6 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5967324&tag=1
 http://delivery.acm.org/10.1145/200000/192905/p175-resnick.pdf?ip=206.87.172.170&id=192905&acc=PUBLIC&key=FD0067F557510FFB%2E0A66EC96EED4A91A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1542586838_d4187f6bfa8ea31aceb1f4268fdada06
 
 https://arxiv.org/ftp/arxiv/papers/1301/1301.3885.pdf
+
+Guide to CF using Python:
+https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0
