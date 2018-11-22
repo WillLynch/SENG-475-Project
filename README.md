@@ -14,7 +14,7 @@ https://www.quora.com/How-does-randomization-in-a-random-forest-work/answer/Edwi
 
 ### Recommender and Ratings Systems
 
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5967324&tag=1
+http://www.csc.kth.se/~miksa/papers/AutomaticMovieRatingsPrediction_MIPRO.pdf
 
 http://delivery.acm.org/10.1145/200000/192905/p175-resnick.pdf?ip=206.87.172.170&id=192905&acc=PUBLIC&key=FD0067F557510FFB%2E0A66EC96EED4A91A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1542586838_d4187f6bfa8ea31aceb1f4268fdada06
 
